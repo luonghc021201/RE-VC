@@ -14,8 +14,8 @@ We also provide the [pretrained models](https://drive.google.com/drive/folders/1
     <th>VITS at inference</th>
   </tr>
   <tr>
-    <td><img src="resources/REVC_training.png" alt="VITS at training" height="400"></td>
-    <td><img src="resources/REVC_inference.png" alt="VITS at inference" height="400"></td>
+    <td><img src="resources/REVC_training.png" alt="VITS at training" height="250"></td>
+    <td><img src="resources/REVC_inference.png" alt="VITS at inference" height="250"></td>
   </tr>
 </table>
 
