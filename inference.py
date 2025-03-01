@@ -21,7 +21,7 @@ torch.manual_seed(0)
 
 os.environ["CUDA_VISIBLE_DEVICES"]="3"
 
-hps2 = utils.get_hparams_from_file("./configs/vits_vc_vctk.json")
+hps2 = utils.get_hparams_from_file("./configs/configs.json")
 
 
 aug = Augment(hps2)

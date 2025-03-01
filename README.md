@@ -10,12 +10,12 @@ We also provide the [pretrained models](https://drive.google.com/drive/folders/1
 
 <table style="width:100%">
   <tr>
-    <th>VITS at training</th>
-    <th>VITS at inference</th>
+    <th>RE-VC at training</th>
+    <th>RE-VC at inference</th>
   </tr>
   <tr>
-    <td><img src="resources/REVC_training.png" alt="VITS at training" height="250"></td>
-    <td><img src="resources/REVC_inference.png" alt="VITS at inference" height="250"></td>
+    <td><img src="resources/REVC_training.png" alt="RE-VC at training" height="250"></td>
+    <td><img src="resources/REVC_inference.png" alt="RE-VC at inference" height="250"></td>
   </tr>
 </table>
 
