@@ -25,6 +25,9 @@ We also provide the [pretrained models](https://drive.google.com/drive/folders/1
 0. Clone this repository
 0. Install python requirements. Please refer [requirements.txt](requirements.txt)
 
+## Noise augmentation (Optional)
+Enhance the dataset by augmenting noise using [this repository](https://github.com/Sato-Kunihiko/audio-SNR). However, noise-augmented audio is only utilized as input for the WavLM model.
+
 ## Training and Inference Exmaple
 ```sh
 ## Training Example
