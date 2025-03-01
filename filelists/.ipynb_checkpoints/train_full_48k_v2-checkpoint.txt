@@ -1,0 +1,64 @@
+/data/luonghc/wav48k_preprocessed/ef0-LJ014-0246-audio.npy|5|# ðˈʌs , wˌɛn ɐ pˈeɪmənt wʌz mˌeɪd baɪ ðə kˈʌmpəni , ðɪ ɐmˈaʊnt dɪsbˈɜːsd wʌz kˈæɹɪd tʊ ɐkˈaʊnt ɪnðə dʒˈɛnɚɹəl bˈʊks fɹʌm ɪts ˈɛntɹi ɪnðə pˈæsbʊk , ~
+/data/luonghc/wav48k_preprocessed/vf4-PL-086-009139-009822-audio.npy|3|# nếu thời gian tới có các vết nứt , thì đề nghị công ty cổ phần tấn phát liên hệ với đơn vị tư vấn xây dựng giám định nguyên nhân . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ010-0092-audio.npy|5|# lˈɔːɹd hˈæɹoʊbiz dˈɪnɚpˈɑːɹɾi wʌz poʊstpˈoʊnd , bˌʌt ðə kənspˈɪɹəɾɚz nˈuː nˈʌθɪŋ ʌv ɪt , ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ046-0150-audio.npy|5|# dˈeɪndʒɚ mˈeɪ biː ɪmplˈaɪd fɹʌm ˈʌðɚz , sˈʌtʃ ɐz mˈɛmbɚʃˌɪp ɔːɹ æktˈɪvɪɾi ɪn ɐn ˌɔːɹɡɐnaɪzˈeɪʃən wˌɪtʃ bɪlˈiːvz ɪn ɐsˌæsᵻnˈeɪʃən æz ɐ pəlˈɪɾɪkəl wˈɛpən . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ050-0234-audio.npy|5|# ɪt hɐz jˈuːzd ˈʌðɚ tɹˈɛʒɚɹi lˈɔː ɛnfˈoːɹsmənt ˈeɪdʒənts ˌɑːn spˈɛʃəl ɛkspˈɛɹɪmənts ɪn bˈɪldɪŋ ænd ɹˈaʊt sˈɜːveɪz ɪn plˈeɪsᵻz tʊ wˌɪtʃ ðə pɹˈɛzɪdənt fɹˈiːkwəntli tɹˈævəlz . ~
+/data/luonghc/wav48k_preprocessed/vf4-PL-125-008344-009184-audio.npy|3|# cùng với việc triển khai đồng bộ các biện pháp nghiệp vụ , nhiều mũi trinh sát hình sự đã được tung xuống địa bàn tiến hành rà soát đối tượng , có biểu hiện nghi vấn . ~
+/data/luonghc/wav48k_preprocessed/vm3-su-kien-00077__5-audio.npy|2|# bộ tài nguyên và môi trường cũng phải tiếp tục kiểm soát chặt chẽ cả những cơ sở gây ô nhiễm môi trường khác nữa . ~
+/data/luonghc/wav48k_preprocessed/vm3-suc-khoe-00132__44-audio.npy|2|# địa phương muốn giúp gia đình chị hường cũng khó , vì ngày gia đình chị chuyển đến xã đông thạnh , huyện hóc môn mua nhà thì nhà không có giấy nên không nhập khẩu được , nay thì càng không vì gia đình chị không còn nhà . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_28_f000122-audio.npy|6|# ðə mˈiːk , kˈaɪnd hˈɑːɹɾᵻd mˈɪstɚ hˈeɪl wʊdhɐv ɹˈɛdili tɹˈaɪd tə kənsˈoʊl hˌɪm ɪn hɪz ɡɹˈiːf , bˌʌt , ʌnlˈʌkili , ~
+/data/luonghc/wav48k_preprocessed/vf1-59-PHU-27-audio.npy|4|# hồ chí minh là con của nguyễn sinh sắc . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_10_f000040-audio.npy|6|# bˌʌt ðə kɑːnvɚsˈeɪʃən wɛnt ˈɔn , ænd mˈɑːɹɡɹət dɹˈuː ˌɪntʊ ɐ kˈɔːɹnɚ , nˌɪɹ hɜː mˈʌðɚ , wɪð hɜː wˈɜːk , ˈæftɚ ðə tˈiː θˈɪŋz wɜː tˈeɪkən ɐwˈeɪ , ~
+/data/luonghc/wav48k_preprocessed/vf4-VH-017-029549-030039-audio.npy|3|# bây giờ nói gì cũng chưa rõ ràng được , cũng phải chờ kết quả mà các cơ quan ban ngành vào cuộc . ~
+/data/luonghc/wav48k_preprocessed/vm3-suc-khoe-00047__11-audio.npy|2|# tối ngày mùng bảy tháng ba , anh còn nói với chị là ngày mai mùng tám tháng ba anh sẽ đi làm về sớm , rồi cho hai mẹ con chị đi ăn . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ005-0186-audio.npy|5|# ðeɪ nˈiːðɚ bˈɪlt nˈuː dʒˈeɪlz nˈɔːɹ kəntɹˈæktᵻd wɪððə kˈaʊntɪz , æz hɐdbɪn ɛkspˈɛktᵻd , fɚðə tɹˈænsfɜːɹ ʌv ðɛɹ pɹˈɪzənɚz . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_35_f000100-audio.npy|6|# ðə dˈɑːktɚz hæd dɪskˈʌvɚd ɐn ɪntˈɜːnəl dɪzˈiːz fˈɑːɹ ɐdvˈænst , ænd ʃˈʊɹ tə pɹˈuːv fˈeɪɾəl , ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_21_f000139-audio.npy|6|# sˌʌm fˈɪɹs wɪð ˈæŋɡɚ , sˌʌm lˈoʊɚɹɪŋ wɪð ɹɪlˈɛntləs θɹˈɛts , sˌʌm dˈaɪleɪɾᵻd wɪð fˈɪɹ , ɔːɹ ɪmplˈoːɹɪŋ ɛntɹˈiːɾi , ~
+/data/luonghc/wav48k_preprocessed/vm2-bat-dong-san-00088__6-audio.npy|1|# vị chuyên gia cũng lưu ý , quá trình phê duyệt kéo dài có thể ảnh hưởng đến những dự án phát triển mới trong năm hai ngàn không trăm mười chín . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ046-0099-audio.npy|5|# θˈʌɹoʊli pɹəfˈɛʃənəl pˌɜːsənˈɛl , jˈuːzɪŋ ðə bˈɛst tˈɛknɪkəl ɪkwˈɪpmənt ðæt kæn biː dɪvˈaɪzd . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ029-0105-audio.npy|5|# ðə ɹˈaʊt wʌz fˈɜːðɚ ɹɪvjˈuːd baɪ lˈɔːsən ænd sˈɔːɹəlz wɪð ɐsˈɪstənt tʃˈiːf bˈætʃɛlɚ ænd mˈɛmbɚz ʌvðə lˈoʊkəl hˈoʊst kəmˈɪɾi ˌɑːn noʊvˈɛmbɚ fɪftˈiːn . ~
+/data/luonghc/wav48k_preprocessed/ef2-skyisland_17_baum_64kb_f000024-audio.npy|7|# ðeɪ hæd hˈɔltᵻd ɐ ʃˈɔːɹt dˈɪstəns fɹʌmðə bˈʊʃᵻz , ænd nˈaʊ ðɛɹ sˈʌdənli ɐpˈɪɹd θɹuː ɐ ɹˈɪft ɪnðə klˈaʊdz ɐn ɪmˈɛns ɹˈeɪnboʊ . ~
+/data/luonghc/wav48k_preprocessed/ef2-rinkitink_baum_11_64kb_f000012-audio.npy|7|# sˌoʊ ɪt wʌz dˈiːmd bˈɛst ðæt zˈɛlə ʃˌʊd ɡˈoʊ . ~
+/data/luonghc/wav48k_preprocessed/vm3-nhip-song-tre-00163__3-audio.npy|2|# từ đó , mười ba đội với kịch bản xuất sắc nhất được chọn vào vòng chung kết . ~
+/data/luonghc/wav48k_preprocessed/vm3-nhip-song-tre-00142__13-audio.npy|2|# mặc dù bức ảnh chụp lén của học trò không đẹp nhưng ảnh ngoài đời của cô giáo xinh hơn nhiều . ~
+/data/luonghc/wav48k_preprocessed/vf4-GDKH-159-000478-000914-audio.npy|3|# phố hóp nơi diễn ra cuộc vây bắt gay cấn đối tượng tử tù trốn trại . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_38_f000179-audio.npy|6|# wˌʌt mˈʌst juː θˈɪŋk ʌv mˌiː , mˈædəm ? ˈæskt mˈɑːɹɡɹət , θɹˈoʊɪŋ hɜː hˈɛd bˈæk wɪð pɹˈaʊd dɪsdˈeɪn , tˈɪl hɜː θɹˈoʊt kˈɜːvd ˈaʊtwɚdz lˈaɪk ɐ swˈɑːnz . ~
+/data/luonghc/wav48k_preprocessed/vf0-phap-luat-00158__25-audio.npy|0|# với những sai phạm của vũ nhôm , ông nguyễn hữu bách , phan hữu tuấn bị truy tố về tội lợi dụng chức vụ , quyền hạn trong thi hành công vụ . ~
+/data/luonghc/wav48k_preprocessed/vm2-xa-hoi-00038__10-audio.npy|1|# đến đây , tận mắt chứng kiến quy trình vận hành tại bãi xỉ , công tác vận hành hệ thống tiếp nhận than , xử lý tro bay , khói thải , nước thải . ~
+/data/luonghc/wav48k_preprocessed/vm2-kinh-doanh-00095__24-audio.npy|1|# theo tính toán của chị thắm , hiện nay , giá dưa trên thị trường giao động từ năm mươi ngàn đồng đến bảy mươi ngàn đồng một ki lô gam . ~
+/data/luonghc/wav48k_preprocessed/vm3-nhip-song-tre-00062__25-audio.npy|2|# sự thiếu tự tin bắt nguồn từ cảm giác thường xuyên thất bại ? ~
+/data/luonghc/wav48k_preprocessed/vm3-su-kien-00155__19-audio.npy|2|# tăng cường đầu tư , hiện đại hóa trang thiết bị , phương tiện kỹ thuật để đáp ứng yêu cầu nhiệm vụ trong tình hình mới . ~
+/data/luonghc/wav48k_preprocessed/vf0-van-hoa-00056__33-audio.npy|0|# việc ăn gian ở đây có thể hiểu là khi hiển thị trên màn ảnh mọi người cảm giác thước phim đó rất nóng bỏng nhưng khi quay lại không nóng tới mức đó . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ003-0349-audio.npy|5|# wˌaɪ nˌɑːt ɹɪlˈiːv nˈuːɡeɪt baɪ dɹˈɔːɪŋ mˈoːɹ lˈɑːɹdʒli əpˌɑːn ðə suːpˈiəɹɪɚɹ ɐkˌɑːmədˈeɪʃən wˌɪtʃ mˈɪlbæŋk ˈɑːfɚd ? ~
+/data/luonghc/wav48k_preprocessed/vf1-10-TIN-11-audio.npy|4|# anh vũ , nghệ sĩ mất vào ngày một tháng tư năm hai nghìn không trăm mười chín . ~
+/data/luonghc/wav48k_preprocessed/vm3-su-kien-00025__6-audio.npy|2|# việc lập tuyến phố đi bộ quanh hồ gươm vào các ngày thứ bảy và chủ nhật là sáng kiến cần được duy trì bằng những hoạt động văn hóa đa dạng và phong phú . ~
+/data/luonghc/wav48k_preprocessed/vf4-day26-050-006052-006680-audio.npy|3|# và tiếp tục sinh đôi @lˈeɪsi và @nˈæʃ năm tuổi , cuối cùng là @lˈɑːnə và @fˈiːnɪks , vừa chào đời mười tuần trước . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_19_f000169-audio.npy|6|# ˌaʊɚ lˈaɪl dʒˈæk , hˌuː wˈeɪkənd mˌiː ˈiːtʃ mˈɔːɹn wˈaɪ pˈʊɾɪŋ hɪz swˈiːt lˈɪɾəl lˈɪps tə maɪ ɡɹˈeɪt ɹˈʌf fˈuː fˈeɪs , ɐ sˈiːkɪŋ ɐ smˈuːð plˈeɪs tə kˈɪs , æn hiː lˈaɪz klˈɛmɪŋ . ~
+/data/luonghc/wav48k_preprocessed/ef2-ozma_of_oz_05_f000088-audio.npy|7|# ænd ʌvðə tˈɪn wˈʊdmən , ænd ðə kˈaʊɚdli lˈaɪən . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ012-0246-audio.npy|5|# ðə mˈɜːdɚɹ ɪn bˈoʊθ kˈeɪsᵻz wʌz lˈɑːŋ ɐ pɹəfˈaʊnd mˈɪstɚɹi . ɪn ðɪs wˌɪtʃ ˈaɪ æm nˈaʊ dɪskɹˈaɪbɪŋ , ~
+/data/luonghc/wav48k_preprocessed/vm3-su-kien-00088__2-audio.npy|2|# ông nguyễn thành nghị sinh năm một chín mười tám , sinh ra tại vùng quê nghèo tỉnh tây ninh . ~
+/data/luonghc/wav48k_preprocessed/ef2-rinkitink_baum_17_64kb_f000005-audio.npy|7|# ɹˈɪŋkɪtˌɪŋks kˈʌntɹi ɪz sˈɛpɚɹˌeɪɾᵻd fɹʌmðə kˈʌntɹi ʌvðə nˈoʊmz baɪ ɐ ɹˈoʊ ʌv hˈaɪ ænd stˈiːp mˈaʊntɪnz , fɹʌm wˈɪtʃ ɪɾ ɛkstˈɛndz tə ðə sˈiː . ~
+/data/luonghc/wav48k_preprocessed/vm3-suc-khoe-00060__1-audio.npy|2|# một năm mới bắt đầu , nhưng với vợ chồng anh nguyễn quang hưng ba mươi tám tuổi , chị lê thị vũ ba bảy tuổi , ở thôn nhật nội , xã thọ dân triệu sơn , thanh hóa , không khí gia đình vẫn buồn bã , u ám . ~
+/data/luonghc/wav48k_preprocessed/vf4-PL-044-004019-004784-audio.npy|3|# các nhà khoa học bao năm qua nói nhiều một nội dung , đó là đầu tư xây dựng hạ tầng giao thông , tăng cường các phương tiện giao thông công cộng hiện đại . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_31_f000066-audio.npy|6|# ˈaɪ kˌʊdɐv kɹˈaɪd tə θˈɪŋk ˈaɪ kˈʊdnt spˈaɪt hˌɪm bˈɛɾɚ , fɔːɹ hiː kˈɛpt smˈaɪlɪŋ ɪn maɪ fˈeɪs , æz ɪf hiː tˈʊk ˈɔːl maɪ kˈɑːmplɪmənts fɔːɹ ˈɜːnɪst , ~
+/data/luonghc/wav48k_preprocessed/vf1-6-TIN-02-audio.npy|4|# hai mươi nghìn tăng hai mươi phần trăm thành hai mươi tư nghìn . ~
+/data/luonghc/wav48k_preprocessed/vm3-su-kien-00058__37-audio.npy|2|# sau một lúc thấy tuấn gọi khánh vào nhờ cầm tiền , số tiền bao nhiêu thì tôi không biết . ~
+/data/luonghc/wav48k_preprocessed/vm3-nhip-song-tre-00140__4-audio.npy|2|# em cần một người chững chạc , công việc ổn định , biết lo cho tương lai sau này . ~
+/data/luonghc/wav48k_preprocessed/vm3-suc-khoe-00160__38-audio.npy|2|# có cảm giác , em hiểu rất rõ sự mất mát , khó khăn trước mắt cũng như con đường dài phía trước . ~
+/data/luonghc/wav48k_preprocessed/vm3-su-kien-00014__4-audio.npy|2|# một phần vì đường sá xa xôi cách trở , không có tiền , một phần là vì không muốn gặp lại chồng , ông lương văn vinh , trưởng công an xã keng đu cho biết . ~
+/data/luonghc/wav48k_preprocessed/ef2-emerald_city_of_oz_08_f000019-audio.npy|7|# ðə vˈɔɪs ʌvðə ɡɹˈænd ɡˈælɪpˌuːt wʌz pˈɑːɹtli ɐ ɹˈoːɹ ænd pˈɑːɹtli ɐ ɡɹˈaʊl . ~
+/data/luonghc/wav48k_preprocessed/ef0-LJ017-0175-audio.npy|5|# ðə sˈɜːkəmstˌænsᵻz wɜː stɹˈeɪndʒ . mɪsˈɛs wˈɪlsən hɐd ɡɔn tə ðə kˈɛmɪsts fɔːɹ mˈɛdəsən , ~
+/data/luonghc/wav48k_preprocessed/ef2-the_master_key_11_f000034-audio.npy|7|# nˈaʊ ðæt juː nˈoʊ sˈʌtʃ θˈɪŋz təbi pˈɑːsᵻbəl ænd pɹˈæktɪkəl , ðə hˈɪnt ʃˌʊd biː səfˈɪʃənt tʊ ɛnˈeɪbəl ɐ ʃɹˈuːd ᵻlɛktɹˈɪʃən tə pɹɪpˈɛɹ dˈuːplᵻkˌeɪts ʌv ðˌɛm . ~
+/data/luonghc/wav48k_preprocessed/ef2-the_sea_fairies_04_f000039-audio.npy|7|# ˈæftɚwɚd ɹᵻzˈuːmɪŋ ðɛɹ pˈoʊsts wɪð wˈɑːtʃfəl ˈaɪz . ~
+/data/luonghc/wav48k_preprocessed/ef2-skyisland_18_baum_64kb_f000005-audio.npy|7|# ˈaɪ spˈoʊz , sˈɛd tɹˈɑːt , ˈɪl hæv tə pˌʊt ˌɔn wˈʌn ʌv tˈʊɹməlˌaɪnz kˈɑːmən pˈɪŋk dɹˈɛsᵻz . jˈɛs , ɹᵻplˈaɪd pˌɑːlɪkɹˈoʊm , juː mˈʌst fˈɑːloʊ ðə kˈʌstəmz ʌvðə kˈʌntɹi , ɐbsˈɜːd ðˌoʊ ðeɪ mˈeɪ bˈiː . ~
+/data/luonghc/wav48k_preprocessed/vm2-bat-dong-san-00057__12-audio.npy|1|# vậy nhưng niềm vui chưa kéo dài được bao lâu thì đường đã xuống cấp , đi lại còn khó khăn hơn đường đất do ổ gà , ổ voi chằng chịt , mặt đường bị cày nát . ~
+/data/luonghc/wav48k_preprocessed/vf0-phap-luat-00125__15-audio.npy|0|# nhóm người này yêu cầu người dân giao đủ tiền mới bán hàng và giao quà tặng . ~
+/data/luonghc/wav48k_preprocessed/vf4-VH-053-013232-013803-audio.npy|3|# thậm chí anh hai còn là người mang những món quà của bố gà , từ bắc vào nam , để gửi đến phương thanh . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_20_f000067-audio.npy|6|# bˌʌt ɪt wʌz wˈʌn ʌv mˈɪsɪs θˈoːɹntənz ɹˈɪɡɚɹəs lˈɔːz ʌv hˌɑːspɪtˈælᵻɾi , ðæt ʌv ˈiːtʃ sˈɛpɹət dˈeɪnti ɪnˈʌf ʃˌʊd biː pɹəvˈaɪdᵻd fɔːɹ ˈɔːl ðə ɡˈɛsts tə pɑːɹtˈeɪk , ɪf ðeɪ fˈɛlt ɪŋklˈaɪnd . ~
+/data/luonghc/wav48k_preprocessed/ef2-ozma_of_oz_08_f000072-audio.npy|7|# bᵻsˈaɪdz , ðɪ ˈɑːfɪsɚz ɑːɹ mˈoːɹ ɪmpˈoːɹtənt lˈʊkɪŋ , ænd lˈɛnd dˈɪɡnᵻɾi tʊ ˌaʊɚɹ ˈɑːɹmi . ~
+/data/luonghc/wav48k_preprocessed/vm2-bat-dong-san-00055__21-audio.npy|1|# hiện huyện đang rà soát tổng thể để phân loại , đối với công trình có khả năng khắc phục sẽ tiếp tục kiến nghị tỉnh cấp kinh phí sửa chữa , còn các công trình hư hỏng không thể khắc phục đề nghị tỉnh cho thanh lý sớm tránh lãng phí nguồn vốn đầu tư . ~
+/data/luonghc/wav48k_preprocessed/vf1-02043_38947-TIN-29-audio.npy|4|# cô từng giành các giải thưởng lớn trong làng điện ảnh hàn quốc như rồng xanh , chuông vàng , @dˈiːsæŋ , @bˈiːksæŋ . ~
+/data/luonghc/wav48k_preprocessed/ef2-emerald_city_of_oz_10_f000116-audio.npy|7|# mˈɪs kˈʌtəŋklˌɪp wʌz ɐbˌaʊt tə mˌeɪk hɜː sˈʌbdʒɛkts ɐ spˈiːtʃ ɪn ɹᵻplˈaɪ tə ðɪs pˌeɪtɹɪˈɑːɾɪk sˈɔŋ , wˌɛn ðə ʃˈæɡi mˈæn hˈæpənd tə snˈiːz . ~
+/data/luonghc/wav48k_preprocessed/vm2-xa-hoi-00114__22-audio.npy|1|# em thấy hoa đào rất đẹp . ~
+/data/luonghc/wav48k_preprocessed/vf4-GDKH-029-008449-008632-audio.npy|3|# cơ hội việc làm sau khi tốt nghiệp . ~
+/data/luonghc/wav48k_preprocessed/ef1-northandsouth_04_f000174-audio.npy|6|# ænd ɪn mˈɪltən , mˈɑːɹɡɹət , ˈaɪ ʃˌæl fˈaɪnd ɐ bˈɪzi lˈaɪf , ɪf nˌɑːɾə hˈæpi wˌʌn , ænd pˈiːpəl ænd sˈiːnz sˌoʊ dˈɪfɹənt ðæt ˈaɪ ʃˌæl nˈɛvɚ biː ɹᵻmˈaɪndᵻd ʌv hˈɛlstoʊn . ~

@@ -1,0 +1,16 @@
+Cython==0.29.21
+librosa
+matplotlib
+numpy
+phonemizer
+scipy
+tensorboard
+Unidecode
+pandas
+thrift
+tqdm
+einops==0.6.0
+huggingface-hub==0.11.1
+librosa==0.8.1
+omegaconf==2.0.6
+SoundFile==0.10.3.post1
