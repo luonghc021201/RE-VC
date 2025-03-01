@@ -9,9 +9,6 @@ import numpy as np
 from scipy.io.wavfile import read
 import torch
 
-# listfile1 = os.listdir('/data/luonghc/wav48k_preprocessed')
-# listfile2 = os.listdir('/data/tts-datasets/wav16k')
-
 MATPLOTLIB_FLAG = False
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
