@@ -1,15 +1,9 @@
-import time
 import os
 import random
-import numpy as np
 import torch
 import torch.utils.data
-import audio_util as audio
-import commons 
-from wav2vec2 import Wav2vec2
 from mel_processing import spectrogram_torch
-from utils import load_filepaths_and_text
-from text import text_to_sequence, cleaned_text_to_sequence
+from utils import load_filepaths
 import librosa
 
 """Multi speaker version"""
@@ -19,22 +13,16 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         2) normalizes text and converts them to sequences of integers
         3) computes spectrograms from audio files.
     """
-    def __init__(self, audiopaths_sid_text, hparams):
-        self.audiopaths_text = load_filepaths_and_text(audiopaths_sid_text)
-        self.text_cleaners = hparams.text_cleaners
+    def __init__(self, audiopaths, hparams):
+        self.audiopaths = load_filepaths(audiopaths)
         self.max_wav_value = hparams.max_wav_value
         self.sampling_rate = hparams.sampling_rate
         self.filter_length  = hparams.filter_length
         self.hop_length     = hparams.hop_length
         self.win_length     = hparams.win_length
-        self.sampling_rate  = hparams.sampling_rate
-
-        self.cleaned_text = getattr(hparams, "cleaned_text", False)
-
-        self.add_blank = hparams.add_blank
 
         random.seed(1234)
-        random.shuffle(self.audiopaths_text)
+        random.shuffle(self.audiopaths)
         self._filter()
 
     def _filter(self):
@@ -45,22 +33,13 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         # wav_length ~= file_size / (wav_channels * Bytes per dim) = file_size / (1 * 2)
         # spec_length = wav_length // hop_length
 
-        audiopaths_text_new = []
         lengths = []
-        for audiopath, text in self.audiopaths_text:
-            audiopaths_text_new.append([audiopath, text])
+        for audiopath in self.audiopaths:
             lengths.append(os.path.getsize(audiopath) // (4 * self.hop_length))
-        self.audiopaths_text = audiopaths_text_new
-        print("----------------------------------------")
-        print("==> NUM OF SAMPLE FOR TRAINING: ", len(audiopaths_text_new))
-        print("----------------------------------------")
       
         self.lengths = lengths
 
-    def get_audio_text_speaker_pair(self, audiopath_text):
-        audiopath, text = audiopath_text[0], audiopath_text[1]
-        
-        text_norm = self.get_text(text, audiopath)
+    def get_audio_text_speaker_pair(self, audiopath):
         spec, wav = self.get_audio(audiopath)
       
         return (spec, wav)
@@ -84,7 +63,7 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
             spec = torch.squeeze(spec, 0)
             torch.save(spec, spec_filename)
 
-        ############ add #############
+        ############ random slice segment #############
         import random
         min_idx = 3
         max_idx = spec.size(1) - 1 - 66
@@ -95,15 +74,11 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
 
         return new_spec, new_audio_norm
 
-    def get_text(self, text, audiopath):
-        text_norm = torch.LongTensor([0])
-        return text_norm
-
     def __getitem__(self, index):
-        return self.get_audio_text_speaker_pair(self.audiopaths_text[index])
+        return self.get_audio_text_speaker_pair(self.audiopaths[index])
 
     def __len__(self):
-        return len(self.audiopaths_text)
+        return len(self.audiopaths)
 
 
 class TextAudioSpeakerCollate():
@@ -130,7 +105,7 @@ class TextAudioSpeakerCollate():
         spec_lengths = torch.LongTensor(len(batch))
         wav_lengths = torch.LongTensor(len(batch))
 
-        spec_padded = torch.FloatTensor(len(batch), batch[0][1].size(0), max_spec_len)
+        spec_padded = torch.FloatTensor(len(batch), batch[0][0].size(0), max_spec_len)
         wav_padded = torch.FloatTensor(len(batch), 1, max_wav_len)
         
         spec_padded.zero_()

@@ -1,13 +1,9 @@
-import copy
-import math
 import torch
 from torch import nn
 from torch.nn import functional as F
-import time
 
 import commons
 import modules
-import attentions
 from styleencoder import StyleEncoder
 from torch.nn import Conv1d, ConvTranspose1d, AvgPool1d, Conv2d
 from torch.nn.utils import weight_norm, remove_weight_norm, spectral_norm
@@ -261,44 +257,28 @@ class SynthesizerTrn(nn.Module):
   """
 
   def __init__(self, 
-    n_vocab,
     spec_channels,
-    segment_size,
     inter_channels,
     hidden_channels,
-    filter_channels,
-    n_heads,
-    n_layers,
-    kernel_size,
-    p_dropout,
     resblock, 
     resblock_kernel_sizes, 
     resblock_dilation_sizes, 
     upsample_rates, 
     upsample_initial_channel, 
     upsample_kernel_sizes,
-    n_speakers=0,
     gin_channels=0,
     **kwargs):
 
     super().__init__()
-    self.n_vocab = n_vocab
     self.spec_channels = spec_channels
     self.inter_channels = inter_channels
     self.hidden_channels = hidden_channels
-    self.filter_channels = filter_channels
-    self.n_heads = n_heads
-    self.n_layers = n_layers
-    self.kernel_size = kernel_size
-    self.p_dropout = p_dropout
     self.resblock = resblock
     self.resblock_kernel_sizes = resblock_kernel_sizes
     self.resblock_dilation_sizes = resblock_dilation_sizes
     self.upsample_rates = upsample_rates
     self.upsample_initial_channel = upsample_initial_channel
     self.upsample_kernel_sizes = upsample_kernel_sizes
-    self.segment_size = segment_size
-    self.n_speakers = n_speakers
     self.gin_channels = gin_channels
 
     self.dec = Generator(inter_channels, resblock, resblock_kernel_sizes, resblock_dilation_sizes, upsample_rates, upsample_initial_channel, upsample_kernel_sizes, gin_channels=gin_channels)

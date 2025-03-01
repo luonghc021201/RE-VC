@@ -143,21 +143,10 @@ def load_wav_to_torch(full_path):
   return torch.FloatTensor(data.astype(np.float32)), sampling_rate
 
 
-def load_filepaths_and_text(filename, split="|"):
+def load_filepaths(filename):
   with open(filename, encoding='utf-8') as f:
-    filepaths_and_text = [line.strip().split(split) for line in f]
-  return filepaths_and_text
-
-def load_filepaths_and_text_v2(filename, split="|"):
-    filepaths_and_text = []
-    with open(filename, encoding='utf-8') as f:
-        for line in f:
-            temp = line.strip().split(split)
-            # spec = temp[0].split('/')[-1].replace('.npy', '.spec.pt')
-            # if spec in listfile1 and spec in listfile2:
-            filepaths_and_text.append(temp)
-
-    return filepaths_and_text
+    filepaths = [line.strip() for line in f]
+  return filepaths
 
 def get_hparams(init=True):
     parser = argparse.ArgumentParser()
@@ -167,10 +156,7 @@ def get_hparams(init=True):
                         help='Model name')
 
     args = parser.parse_args()
-    # model_dir = os.path.join("./logs", args.model)
     model_dir = args.model
-    # if not os.path.exists(model_dir):
-    #     os.makedirs(model_dir)
 
     config_path = args.config
     config_save_path = os.path.join(model_dir, "config.json")
