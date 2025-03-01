@@ -28,7 +28,7 @@ We also provide the [pretrained models](https://drive.google.com/drive/folders/1
 ## Training and Inference Exmaple
 ```sh
 ## Training Example
-python train.py -c configs/vctk.json -m vctk_base
+python train.py -c configs/configs.json -m vctk_base
 
 
 ## Inference Example
