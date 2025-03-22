@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import torchaudio.functional as AF
 from .peq import ParametricEqualizer
 
 class Augment(nn.Module):

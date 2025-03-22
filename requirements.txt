@@ -9,8 +9,9 @@ Unidecode
 pandas
 thrift
 tqdm
+torch==1.7.0
 einops==0.6.0
 huggingface-hub==0.11.1
-librosa==0.8.1
-omegaconf==2.0.6
+librosa==0.9.1
+omegaconf
 SoundFile==0.10.3.post1

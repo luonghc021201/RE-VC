@@ -12,6 +12,8 @@ from librosa.util import normalize, pad_center, tiny
 from scipy.signal import get_window
 from scipy.io.wavfile import read
 from librosa.filters import mel as librosa_mel_fn
+import warnings
+warnings.filterwarnings("ignore")
 
 MAX_WAV_VALUE = 32768.0
 
